@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Goat and Ram",
-    "slug": "goat-and-ram",
+    "slug": "pwa-mobile-app",
     "version": "1.0.1",
     "orientation": "landscape",
     "icon": "./assets/images/icon.png",
